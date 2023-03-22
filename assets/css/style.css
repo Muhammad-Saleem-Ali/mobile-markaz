@@ -930,7 +930,7 @@ width: 475px;
     width: 100%;
     min-width: 270px;
     background-color: #fff;
-    border: .1rem solid #ebebeb;
+    border: 1px solid #39D8FD;
     border-radius: 20px;
     z-index: 10;
 }
